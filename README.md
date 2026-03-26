@@ -32,19 +32,19 @@
 ## 📷 Screenshots
 
 <p align="center">
-  <img src="assets/1.png" width="30%" alt="Screenshot 1" />
-  <img src="assets/2.jpeg" width="30%" alt="Screenshot 2" />
-  <img src="assets/3.jpeg" width="30%" alt="Screenshot 3" />
+  <img src="1.png" width="30%" alt="Screenshot 1" />
+  <img src="2.jpeg" width="30%" alt="Screenshot 2" />
+  <img src="3.jpeg" width="30%" alt="Screenshot 3" />
 </p>
 <p align="center">
-  <img src="assets/4.jpeg" width="30%" alt="Screenshot 4" />
-  <img src="assets/5.jpeg" width="30%" alt="Screenshot 5" />
-  <img src="assets/6.jpeg" width="30%" alt="Screenshot 6" />
+  <img src="4.jpeg" width="30%" alt="Screenshot 4" />
+  <img src="5.jpeg" width="30%" alt="Screenshot 5" />
+  <img src="6.jpeg" width="30%" alt="Screenshot 6" />
 </p>
 <p align="center">
-  <img src="assets/7.jpeg" width="30%" alt="Screenshot 7" />
-  <img src="assets/8.jpeg" width="30%" alt="Screenshot 8" />
-  <img src="assets/9.jpeg" width="30%" alt="Screenshot 9" />
+  <img src="7.jpeg" width="30%" alt="Screenshot 7" />
+  <img src="8.jpeg" width="30%" alt="Screenshot 8" />
+  <img src="9.jpeg" width="30%" alt="Screenshot 9" />
 </p>
 
 ---
